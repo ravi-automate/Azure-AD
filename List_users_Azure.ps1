@@ -1,7 +1,7 @@
 <#
 Author  : Ravindrakumar
 
-Purpose : Create new user in Azure Active directory
+Purpose : List the users in Azure Active directory
 
 #>
 
